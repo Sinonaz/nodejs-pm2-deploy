@@ -10,8 +10,8 @@ fi
 
 . "$NVM_DIR/nvm.sh"
 
-nvm install --lts
-nvm use --lts
+nvm install 16
+nvm use 16
 
 cd frontend
 
